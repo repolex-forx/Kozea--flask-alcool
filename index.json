@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "flask-alcool",
+  "versions": [
+    {
+      "commit": "507a7556f54a9d7c84e6bab6ccb4689757ca0132",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:19:23.991161+00:00"
+    }
+  ]
+}
