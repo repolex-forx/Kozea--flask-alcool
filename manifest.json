@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "flask-alcool",
+  "versions": [
+    {
+      "commit": "507a7556f54a9d7c84e6bab6ccb4689757ca0132",
+      "parsed_at": "2026-10-28T17:17:06.137002+00:00",
+      "filetree": "filetree/507a7556f54a9d7c84e6bab6ccb4689757ca0132.nq.gz",
+      "blobs": [
+        "blob/f5197ae7c00e927028120e248ccd08fabaacc6b1.nq.gz",
+        "blob/c07bc349d4470a84e0be3cdc58f12b2c11115a43.nq.gz",
+        "blob/71a11e8ab1a11e3d01daa90964e699d55358c495.nq.gz",
+        "blob/783a605eeb821996d3e0f0f0a462ccf40ef3c4bd.nq.gz",
+        "blob/af2c23f1db095c075a646a5213f217e7e61eb66e.nq.gz",
+        "blob/85fec3a4b02653e178718189e9bbc8bb42b13f17.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
