@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Kozea/flask-alcool/commit/507a7556f54a9d7c84e6bab6ccb4689757ca0132",
       "git:hexsha": "507a7556f54a9d7c84e6bab6ccb4689757ca0132",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:19:23.990699+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/flask-alcool/commit/6e08acd58f2ea846ddd71cf1ac09746f422e17a7",
